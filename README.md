@@ -47,4 +47,5 @@ Run `ng generate component component-name` to generate a new component. You can 
 Run `npm run test` or `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
 
 ## Node modules for any reference
-[URL](https://github.com/rohit22173/angular-node-modules) to download the node-modules
+[MAC version](https://github.com/rohit22173/angular-node-modules) to download the node-modules
+[WINDOWS version](https://github.com/rohit22173/angular-node-modules) WIP
