@@ -14,8 +14,7 @@ You have to perform the following tasks -
     * Add validations so that the "Contact No." field should exactly be the 10 digits and shouldn't accept alphanumeric characters.
     * Show the error messages (which field is empty, contact accepts 10 digit number only etc).
     * Disable the "Create Hero" button if the form is invalid.
-4.  Add unit testcases for sufficient code coverage.
-5.  Refactor and optimise the code.
+4.  Refactor and optimise the code.
 
 Please note - 
 
